@@ -3,8 +3,8 @@
 - 🧑🏼‍💻I'm a Software Engineering
   - Frontend: ReactJS, Styled Component, Apollo, Client
   - Backend: Laravel, Zend, Flask, ProsgreSQL, MySQL
-  - Data Science: Pytorch, Tensorflow, Scikit-learn, Natural Language Processing, CNN
   - Testing: Cypress
+  - Data Science: Pytorch, Tensorflow, Scikit-learn, Natural Language Processing, CNN
 - 🌱 I’m currently learning NextjS
 <!--
 **wildannajahw/wildannajahw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
