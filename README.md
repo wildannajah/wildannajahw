@@ -3,7 +3,7 @@
 - 🧑🏼‍💻I'm a Software Engineering
   - Frontend: ReactJS, Styled Component, Apollo, Client
   - Backend: Laravel, Zend, Flask, ProsgreSQL, MySQL
-  - Data Science: Pytorch, Tensorflow, Skit-learn, Natural Language Processing, CNN
+  - Data Science: Pytorch, Tensorflow, Scikit-learn, Natural Language Processing, CNN
   - Testing: Cypress
 - 🌱 I’m currently learning NextjS
 <!--
