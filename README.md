@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🧑🏼‍💻I'm a Software Engineering
+  - Frontend: ReactJS, Styled Component, Apollo, Client
+  - Backend: Laravel, Zend, Flask, ProsgreSQL, MySQL
+  - Data Science: Pytorch, Tensorflow, Skit-learn, Natural Language Processing, CNN, Random Foreset
+  - Testing: Cypress
+- 🌱 I’m currently learning NextjS
 <!--
 **wildannajahw/wildannajahw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
