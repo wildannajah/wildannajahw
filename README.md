@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑🏼‍💻I'm a Software Engineering
+- 🧑🏼‍💻I'm a Software Engineer
   - Frontend: ReactJS, Styled Component, Apollo Client
   - Backend: Laravel, Zend, Flask, ProsgreSQL, MySQL
   - Testing: Cypress
