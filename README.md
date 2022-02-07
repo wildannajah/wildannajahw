@@ -5,7 +5,6 @@
   - Backend: Laravel, Zend, Flask, ProsgreSQL, MySQL
   - Testing: Cypress
   - Data Science: Pytorch, Tensorflow, Scikit-learn, Natural Language Processing, CNN
-- 🌱 I’m currently learning NextjS
 <!--
 **wildannajahw/wildannajahw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
