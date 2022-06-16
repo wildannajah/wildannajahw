@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🧑🏼‍💻I'm a Software Engineer
-  - Frontend: ReactJS, Styled Component, Apollo Client
-  - Backend: Laravel, Zend, Flask, ProsgreSQL, MySQL
+  - Frontend: ReactJS, NextJs, Styled Component, Apollo Client
+  - Backend: NestJs, Laravel, Zend, Flask, ProsgreSQL, MySQL
   - Testing: Cypress
   - Data Science: Pytorch, Tensorflow, Scikit-learn, Natural Language Processing, CNN
 <!--
